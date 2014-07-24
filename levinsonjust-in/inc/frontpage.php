@@ -18,6 +18,7 @@
 ?>
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
+		FRONTPAGE
 <?php	
 	foreach ($category_list as $category) {
 
